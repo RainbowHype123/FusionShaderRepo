@@ -1,7 +1,7 @@
 ## Info
 **Shader Packs:** Earthbound pack (by Rhadamus)
 
-**Last Updated:** 2023-08-18 19:57  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **InterleavedWaveVAA.xml** — Info & Integration
