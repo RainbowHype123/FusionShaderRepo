@@ -4,7 +4,7 @@ DirectX 9 Pixel Shader version 3.0 is broken on Fusion for a long time, more spe
 
 **Shader Packs:** OpenFusionExamples (by defisym)
 
-**Last Updated:** 2026-01-11 21:06  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **GaussBlur1D.xml** — Info & Integration

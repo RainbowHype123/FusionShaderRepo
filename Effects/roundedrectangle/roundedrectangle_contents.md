@@ -1,7 +1,7 @@
 ## Info
 **Shader Packs:** OpenFusionExamples (by defisym)
 
-**Last Updated:** 2022-04-28 13:14  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **roundedrectangle.xml** — Info & Integration

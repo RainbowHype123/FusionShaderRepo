@@ -1,7 +1,7 @@
 ## Info
 **Shader Packs:** FusionShaders (by Cazra)
 
-**Last Updated:** 2022-10-14 17:37  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **OR.xml** — Info & Integration

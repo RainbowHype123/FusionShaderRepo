@@ -1,5 +1,5 @@
 ## Info
-**Last Updated:** 2025-08-02 14:39  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **RotatedShadow.xml** — Info & Integration

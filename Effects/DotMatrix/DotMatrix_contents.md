@@ -1,7 +1,7 @@
 ## Info
 **Shader Packs:** OpenFusionExamples (by defisym)
 
-**Last Updated:** 2022-08-01 12:27  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **DotMatrix.xml** — Info & Integration

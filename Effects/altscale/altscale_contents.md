@@ -1,5 +1,5 @@
 ## Info
-**Last Updated:** 2013-06-22 01:01  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **altscale.xml** — Info & Integration

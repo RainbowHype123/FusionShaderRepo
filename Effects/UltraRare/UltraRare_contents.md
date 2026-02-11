@@ -1,5 +1,5 @@
 ## Info
-**Last Updated:** 2025-04-25 03:09  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **UltraRare.xml** — Info & Integration

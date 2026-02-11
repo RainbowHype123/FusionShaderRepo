@@ -1,7 +1,7 @@
 ## Info
 **Shader Packs:** OpenFusionExamples (by defisym)
 
-**Last Updated:** 2021-09-18 03:57  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **ringhealthbar.xml** — Info & Integration

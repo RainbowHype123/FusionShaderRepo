@@ -1,7 +1,7 @@
 ## Info
 **Shader Packs:** OpenFusionExamples (by defisym)
 
-**Last Updated:** 2026-01-11 14:39  
+**Last Updated:** 2026-02-10 19:08  
 
 ## Shader files
 - **AlphaMono.xml** — Info & Integration
