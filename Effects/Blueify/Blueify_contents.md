@@ -8,6 +8,7 @@
 - **Blueify.fx** — DirectX9 source code
 - **Blueify.hlsl** — DirectX11 source code
 - **Blueify.fxc** — DirectX11 compiled
+- **Blur30.premultiplied.fxc** — DirectX11 compiled (Premultiplied*)
 
 ## Examples
 - Blueify Test MFA.mfa
