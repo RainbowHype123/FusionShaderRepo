@@ -5,4 +5,6 @@
 
 ## Shader files
 - **Blueify.xml** — Info & Integration
-- **Blueify.fx** — DirectX9 source code  
+- **Blueify.fx** — DirectX9 source code
+- **Blueify.hlsl** — DirectX11 source code
+- **Blueify.fxc** — DirectX11 compiled
